@@ -6,6 +6,5 @@ public class User {
     private String password;
 
 
-
     private Long user_id;
-
+}

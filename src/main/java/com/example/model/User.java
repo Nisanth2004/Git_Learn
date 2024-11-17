@@ -5,5 +5,5 @@ public class User {
     private String username;
     private String password;
 
-    private Long id;
+    private Long age;
 }

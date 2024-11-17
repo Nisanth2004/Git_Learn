@@ -7,4 +7,6 @@ public class User {
 
 
     private Long user_id;
+
+    private Long id;
 }
